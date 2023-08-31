@@ -1,2 +1,2 @@
-# Unity-Color-Clone
+# Color-Clone
  Color clone game made in Unity
